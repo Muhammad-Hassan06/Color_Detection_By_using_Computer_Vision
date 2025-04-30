@@ -10,7 +10,7 @@ This project performs **real-time color detection** using your webcam. It detect
 - Detects a specific color (Yellow by default)
 - Highlights the detected color area with a bounding box
 - Flip the frame for a mirror-like experience
-- Press **`F` key** to stop the program
+- Press **`q` key** to stop the program
 
 ---
 
